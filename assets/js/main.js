@@ -42,7 +42,7 @@
 
 		}
 
-	// Menu.
+	/* // Menu.
 		var $menu = $('#menu');
 
 		$menu._locked = false;
@@ -140,6 +140,6 @@
 					if (event.keyCode == 27)
 						$menu._hide();
 
-			});
+			});*/
 
 })(jQuery);
